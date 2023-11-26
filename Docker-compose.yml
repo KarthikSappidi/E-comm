@@ -1,12 +1,8 @@
 version:"4.25.2"
 
 services:
-   nginx:
-      image:"nginx
-      ports:
-         - "8080-80
     ecomm:
-     image:"karthiksappidi/ecomm
-     ports:
-       - 8081:80
+      image: "karthiksappidi/ecomm"
+      ports:
+         - "8081:80"
 
