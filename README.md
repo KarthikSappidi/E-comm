@@ -1,2 +1,2 @@
 # E-Comm Application
-Project hosting a static E-comm Web Application Using AWS S3
+## Project hosting a static E-comm Web Application Using AWS S3
