@@ -1,2 +1,2 @@
-# E-comm
-This is a E-comm Template
+# E-Comm Application
+
